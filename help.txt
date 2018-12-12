@@ -1,0 +1,13 @@
+
+1.ExtractDataAndLabel
+2.GetTrainAndTest
+3.FilterTrainAndTest
+4.WaveletTransformForTest
+5.WaveletTransformForTrain
+6.normalization
+7.ZeroPadding
+8.ChangToBlobAndHDF5
+
+
+
+
